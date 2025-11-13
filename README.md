@@ -34,10 +34,6 @@ for i in range(len(X)):
   plt.show()
 ```
 ## Output
-</br>
-</br>
-![alt text](image.png)
-</br>
-</br>
+![alt text](<linalg 9.png>)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
